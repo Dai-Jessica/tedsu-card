@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Su;Ted;;;
+FN:Ted Su
+TITLE:資深經理 / Sr. Manager
+ORG:茂綸股份有限公司 / MACNICA GALAXY INC.
+TEL;TYPE=work,voice:(02)8913-2200 Ext.1331
+TEL;TYPE=cell,voice:0933-910-155
+TEL;TYPE=fax:(02)8913-2277
+EMAIL;TYPE=internet:ted.su@macnica.com
+URL:https://www.macnica.com.tw
+ADR;TYPE=work:;;23143 新北市新店區北新路三段207之5號4樓;新北市;;23143;台灣
+END:VCARD
